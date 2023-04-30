@@ -1,10 +1,9 @@
-import logo from "./logo.svg";
 import "./App.css";
 import JSONDATA from "./MOCK_DATA.json";
 
 function App() {
   return (
-    <div className="App">
+    <div className="search-names">
       <input type="text" placeholder="search ..." />
       {JSONDATA.map((val, key) => {
         return (
