@@ -1,14 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
 
 
-.body {
-  background-color: rgb(86, 82, 106);
+body {
+  /* background-color: rgb(86, 82, 106) ; */
+  background-color: rgb(106, 82, 87);
 }
 
 
 .search-names {
   font-family: 'Bungee Spice';
-  background-color: rgb(106, 82, 87);
+  /* background-color: rgb(106, 82, 87); */
+  /* background-color: aquamarine; */
   justify-content: center;
   text-align: center;
   font-size: xx-large;
@@ -20,5 +22,5 @@
   text-align: center;
   border-color: black;
   border-width: 10px;
-  border-style:double;
+  border-style: double;
 }
